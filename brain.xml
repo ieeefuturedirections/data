@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>IEEE Brain</title>
+    <link>https://brain.ieee.org/</link>
+    <language>en-us</language>
+    <copyright>℗ &amp; © 2021 IEEE Brain</copyright>
+    <itunes:subtitle>IEEE Brain Podcasts</itunes:subtitle>
+    <itunes:author>IEEE Brain</itunes:author>
+    <itunes:summary>Welcome to the IEEE Brain Podcast Series. Listen to some of the top subject matter experts as they discuss their research and career path.</itunes:summary>
+    <description>Welcome to the IEEE Brain Podcast Series. Listen to some of the top subject matter experts as they discuss their research and career path.</description>
+    <itunes:owner>
+      <itunes:name>IEEE Future Directions</itunes:name>
+      <itunes:email>c.franzino@ieee.org</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2021/01/brain-podcasts.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Episode 18: Q&amp;A with Dr. Jose Carmena, University of California, Berkeley and Iota Biosciences</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Jose Carmena, University of California, Berkeley and Iota Biosciences</itunes:subtitle>
+      <itunes:summary>In this episode, Jose Carmena from UC Berkeley discusses his firsthand experiences moving from academia to launching the neuroscience start up Iota BioSciences. Jose informs on his company’s technology, provides insights on Neurotech evolution, and sheds light on challenges and opportunities in the technology space.</itunes:summary>
+      <itunes:image href="https://brain.ieee.org/wp-content/uploads/sites/52/2020/12/brain-podcast-ep18-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2020/12/IEEE_Brain_Podcast_NEW_Jose_Carmena-12_21_20-11.19-AM.mp3" length="21024936" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2020/12/IEEE_Brain_Podcast_NEW_Jose_Carmena-12_21_20-11.19-AM.mp3</guid>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 EST</pubDate>
+      <itunes:duration>10:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 17: Q&amp;A with Dr. Cristin Welle, Associate Professor, Departments of Neurosurgery and Physiology &amp; Biophysics, University of Colorado</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Cristin Welle, Associate Professor, Departments of Neurosurgery and Physiology &amp; Biophysics, University of Colorado</itunes:subtitle>
+      <itunes:summary>In this episode, Cristin Welle discusses her research that lies at the intersection between neural device technology and their implications in the nervous system. Having previously worked at the FDA focused on neural interface technology, Cristin provides valuable insights on entrepreneurial opportunities, regulatory issues, and the importance of promoting diversity in the neuroscience community.</itunes:summary>
+      <itunes:image href="https://brain.ieee.org/wp-content/uploads/sites/52/2020/11/brain-podcast-ep17-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2020/11/IEEE_Brain_Podcast_NEW_Kristin_Welle-10_14_20-10.21-AM.mp3" length="21075927" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2020/11/IEEE_Brain_Podcast_NEW_Kristin_Welle-10_14_20-10.21-AM.mp3</guid>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 EST</pubDate>
+      <itunes:duration>10:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 16: Q&amp;A with Dr. Christopher Rozell, Professor of Electrical and Computer Engineering, Georgia Institute of Technology</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Christopher Rozell, Professor of Electrical and Computer Engineering, Georgia Institute of Technology</itunes:subtitle>
+      <itunes:summary>Artificial Intelligence holds great promise in the advancement of neuroscience. This podcast features Dr. Chris Rozell, professor of electrical and computer engineering at the Georgia Institute of Technology and leader of the Sensory Information Processing Lab. As a member of IEEE Brain and an educator and researcher working on developing technology to enable interactions between the brain and artificial intelligence systems, Dr. Rozell shares his insights on the neuroscience landscape, informs on opportunities for technology advancement and offers advice for students and young professionals who might be interested in pursuing a career in this exciting field of study.</itunes:summary>
+      <itunes:image href="https://brain.ieee.org/wp-content/uploads/sites/52/2020/09/brain-podcast-ep16-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2020/09/Chris-Rozell-8-21-20-1111-AM.mp3" length="37954792" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2020/09/Chris_Rozell-8-21-20-11.11-AM.mp3</guid>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 EST</pubDate>
+      <itunes:duration>19:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 15: Q&amp;A with Dr. Laura Specker Sullivan, Assistant Professor of Philosophy, College of Charleston</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Laura Specker Sullivan, Assistant Professor of Philosophy, College of Charleston, Clinical Ethics Consultant, Medical University of South Carolina</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. Ethics, as it relates to neuroscience, continues to grow in importance in light of ongoing advancements in neurotechnology. In this podcast, Laura Specker Sullivan, Assistant Professor of Philosophy at the College of Charleston and Clinical Ethics Consultant at the Medical University of South Carolina, provides insights on ethical challenges and ways to ensure ethics are prioritized within neuroscience, and she gives advice how students might explore opportunities related to this growing field of interest.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2020/02/brain-podcast-ep15-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2020/02/IEEE_Brain_Podcast_LauraSpecklerSullivan_Main-1_24_20-1.21-PM.mp3" length="13083712" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2020/02/IEEE_Brain_Podcast_LauraSpecklerSullivan_Main_-_1_24_20_121_PM.mp3</guid>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 EST</pubDate>
+      <itunes:duration>06:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 14: Q&amp;A with JoJo Platt, President of Platt and Associates, Inc.</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>JoJo Platt, President of Platt and Associates, Inc.</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. Bioelectronics medicine is a growing field underpinned by bioelectrical engineering, neuroscience and molecular biology technologies. In this podcast, JoJo Platt, president of Platt and Associates, points to a collaborative and unifying approach for achieving new discoveries and applications in bioelectronics medicine, touching upon key issues such as ethics, security, and the advantages of a tangential education for young engineers.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/12/brain-podcast-ep14-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2020/01/IEEE_Brain_Podcasts_JoJo_Platt1-11_4_19-11.47-AM.mp3" length="13709814" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2019/12/IEEE_Brain_Podcasts_JoJo_Platt1-11_4_19-11.47-AM.mp3</guid>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 EST</pubDate>
+      <itunes:duration>07:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 13: Q&amp;A with Dr. Al Emondi, Program Manager in the Biological Technologies Office at DARPA</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Al Emondi, Program Manager in the Biological Technologies Office at DARPA</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. Advancements in neurotechnology have the potential to enable new applications where humans could possibly communicate with complex systems at "the speed of light". Dr. Al Emondi, Program Manager in the Biological Technologies Office at The Defense Advanced Research Projects Agency (DARPA), sat down with IEEE Brain at the 2019 International IEEE EMBS Conference on Neural Engineering where he shared his insights on non-invasive brain interfaces and why he believes we are currently experiencing a revolutionary time for neuroscience and bioengineering technologies.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/09/brain-podcast-ep13-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2019/09/BrainPodcast_AlEmondi_v2.mp3" length="9231590" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2019/09/BrainPodcast_AlEmondi_v2.mp3</guid>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 EST</pubDate>
+      <itunes:duration>07:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 12: Q&amp;A with Dr. Cindy Chestek, Associate Professor of Biomedical Engineering at University of Michigan</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Cindy Chestek, Associate Professor of Biomedical Engineering at University of Michigan</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. Dr. Cindy Chestek, Associate Professor of Biomedical Engineering at the University of Michigan, began her career as an electrical engineer but is now immersed in the world of brain-machine interfaces (BMIs). She is working diligently on hardware and algorithms for BMIs with the goal of developing better prosthetic control of multi-articulated finger movements. We spoke with Dr. Chestek at the 2019 International IEEE EMBS Conference on Neural Engineering where she shared more about her work in prosthetics and peripheral nerves, how carbon fiber electrode arrays are changing the game, and much more.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/08/brain-podcast-ep12-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2019/08/BrainPodcast_CindyChestek_Logic.mp3" length="9133369" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2019/08/BrainPodcast_CindyChestek_Logic.mp3</guid>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 EST</pubDate>
+      <itunes:duration>07:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 11: Q&amp;A with Jack Gallant, Professor of Psychology and Neuroscience at UC Berkeley</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Jack Gallant, Professor of Psychology and Neuroscience at UC Berkeley</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. When it comes to functional mapping of the human brain, Jack Gallant, Professor of Psychology and Neuroscience at UC Berkeley, is at the forefront. Although we are a ways away from fully mapping the brain, Jack's work in functional MRI has led to incredible spatial maps that are helping scientists better understand the brain. Jack shares how he got started in neuroscience, why he believes understanding the brain is important for the future of science and medicine, how those interested in a similar career path should get started, and more.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/07/brain-podcast-ep11-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2019/07/BrainPodcast_JackGallant_61719.mp3" length="11301533" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2019/07/BrainPodcast_JackGallant_61719.mp3</guid>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 EST</pubDate>
+      <itunes:duration>09:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 10: Q&amp;A with Dr. Elisa Konofagou, Columbia University</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Elisa Konofagou, Professor of Biomedical Engineering and Radiology at Columbia University</itunes:subtitle>
+      <itunes:summary>We sat down with Dr. Elisa Konofagou, Professor of Biomedical Engineering and Radiology at Columbia University, at the 2018 IEEE Brain Initiative Workshop on Advanced NeuroTechnologies. Dr. Konofagou gave us further insights and a deeper dive into ultrasound neuromodulation of the brain in vivo, the topic she discussed during the workshop. She shares more about her work and how her goal is to create a world where cancer, tumors, psychiatric and motor neural diseases are detected and treated using ultrasound-based technologies.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep10-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2019/05/IEEE-Brain-Podcast-Series-Dr.-Elisa-Konofagou.mp3" length="37118245" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/616991124</guid>
+      <pubDate>Tue, 07 May 2019 00:00:00 EST</pubDate>
+      <itunes:duration>25:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 9: Q&amp;A with Chris Berka, CEO and Co-Founder of Advanced Brain Monitoring</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Chris Berka, CEO and Co-Founder of Advanced Brain Monitoring</itunes:subtitle>
+      <itunes:summary>In this podcast, we spoke with Chris Berka, CEO and Co-Founder of Advanced Brain Monitoring, following her presentation at the IEEE Brain Initiative Workshop on Advanced NeuroTechnologies to get an inside look at how her company is using brain activity monitoring to better understand neruodegenerative diseases. Advanced Brain Monitoring uses sleep and daytime brain profiles to collect valuable data which is then used to predict advancements in diseases such as Alzheimer's and dementia. Chris shared her end goal for observing and collecting data from brain activity, new projects her company is working on, how she got started working in neurotechnology and advice for those looking to follow the same career path.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep09-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2019/03/IEEE-Brain-Podcast-Series-Dr.-Chris-Berka.mp3" length="20691822" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/594061113</guid>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 EST</pubDate>
+      <itunes:duration>14:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 8: Q&amp;A with Dr. Jennifer Gelinas, Columbia University Medical Center</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Jennifer Gelinas, Assistant Professor of Neurology in the Institute for Genomic Medicine at Columbia University Medical Center</itunes:subtitle>
+      <itunes:summary>Dr. Gelinas is focused on understanding how neural networks can be disrupted by pathologic activity, especially epileptic activity and she discusses with us how better bio markers for neuro psychiatric disease brings hope for new therapeutic targets for these types of disorders. We sat down with Dr. Gelinas at the 2018 IEEE Brain Initiative Workshop on Advanced NeuroTechnologies in San Diego, California to discuss her research, how she came to work in neurotechnology, how collaboration has benefited her research, and much more.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep08-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2019/02/IEEE-Brain-Podcast-Series-Dr.-Jennifer-Gelinas.mp3" length="25042778" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/572391909</guid>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 EST</pubDate>
+      <itunes:duration>17:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 7: Q&amp;A with Dr. Kip Ludwig, Mayo Clinic Neural Engineering Laboratories</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Kip Ludwig, Associate Director of the Mayo Clinic Neural Engineering Laboratories</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. Kip Ludwig started his career in the bio-chemical/bio-molecular field, but when a rat beat him at a video game using Brain Machine Interfaces, he knew his future was in neurotechnology. Dr. Ludwig, Mayo Clinic Neural Engineering Laboratories Associate Director, has dedicated his career and his research to the field of neurotechnology and has made incredible strides in implantable and injectable systems, bionic eyes, Deep Brain Stimulation, and more. Through his work with the White House Brain Initiative and the Mayo Clinic, he has been on forefront of cutting-edge developments in neurotechnology that have enabled blind people to see and deaf people to hear. In this podcast, Dr. Ludwig shares his vision for the future of neurotechnology, how the IEEE Brain Initiative is essential to the development of new technology, and much more. Dr. Ludwig is well on his way to his career goal which is to solve every neural degenerative disease during his lifetime.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep07-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2018/07/Kip-Ludwig_Podcast-MP3.mp3" length="25633312" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/469483065</guid>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 EST</pubDate>
+      <itunes:duration>26:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 6 Part 2: Q&amp;A with Dr. Maryam Shanechi, USC, Assistant Professor</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Maryam Shanechi, Assistant Professor and Viterbi Early Career Chair in Electrical Engineering, University of Southern California</itunes:subtitle>
+      <itunes:summary>In this podcast, we continue our conversation with Dr. Maryam Shanechi, USC, Assistant Professor and Viterbi Early Career Chair in Electrical Engineering. Dr. Shanechi’s research focuses on decoding and manipulating brain signals. In this second podcast, she shares an overview of her work on Brain-Machine Interface (BMI) design and how she hopes to use BMIs to restore motor function, control anesthesia, and alleviate depression and post-traumatic stress disorder. Dr. Shanechi also shares how collaboration between mathematicians, computer scientists, electrical engineers, biomedical engineers, neurosurgeons and neuroscientists is crucial in developing neurotechnology. In addition, she gives us a glimpse into her goal of using BMIs to not just treat disorders, but to enhance our natural functions and capabilities.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep06-2-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2018/06/Maryam-Shanechi_Podcast-Part-2.mp3" length="29703603" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/456890649</guid>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 EST</pubDate>
+      <itunes:duration>15:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 6: Q&amp;A with Dr. Maryam Shanechi, USC, Assistant Professor</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Maryam Shanechi, Assistant Professor and Viterbi Early Career Chair in Electrical Engineering, University of Southern California</itunes:subtitle>
+      <itunes:summary>When it comes to decoding and manipulating brain signals, Dr. Maryam Shanechi is among the best. She has been recognized with awards such as the National Science Foundation CAREER Award, the MIT Technology Review World’s Top 35 Innovators under 35, and the Popular Science Brilliant 10, and is genuinely passionate about her work and research. In Part 1 of this two-part series, Dr. Shanechi, USC, Assistant Professor and Viterbi Early Career Chair in Electrical Engineering, shares the challenges of studying the brain and the success she has had in her career. She also dives into the potential of Brain-Machine Interfaces to determine and treat neurological disorders, how her background in Control Theory influenced her decision to research the brain, and why she believes this is a very exciting era for engineers, mathematicians, and scientists.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep06-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2018/05/Maryam-Shanechi_Podcast-Part-1.mp3" length="28278614" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/445810611</guid>
+      <pubDate>Fri, 18 May 2018 00:00:00 EST</pubDate>
+      <itunes:duration>14:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 5: Q&amp;A with Dr. Jacob Robinson, IEEE Brain Co-Chair</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Jacob Robinson, IEEE Brain Co-Chair, Assistant Professor in Electrical and Computer Engineering and Bioengineering at Rice University, Adjunct Assistant Professor in Neuroscience at Baylor College of Medicine</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. With so many challenges and complexities surrounding the brain, it is imperative that neuroscientists and engineers work together to answer the hard questions and truly make progress in the study of the brain. That’s one of the reasons Dr. Jacob Robinson is not only involved in the IEEE Brain Initiative but is the Co-Chair. In addition, Dr. Robinson is an Assistant Professor in Electrical and Computer Engineering and Bioengineering at Rice University and is an Adjunct Professor in Neuroscience at Baylor College of Medicine. During this podcast episode, Dr. Robinson discusses the work his lab is doing in the field of Nano-neurotechnology and how they are using nanofabrication technology to create devices that can monitor and manipulate neural circuits. He shares his goals in working with engineers and other neuroscientists to understand the brain and help advance the treatment of neurological disorders. Dr. Robinson also gives us a glimpse into why he began studying the brain and how he believes that by understanding the brain, we can understand humanity and what makes us different from one another.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep05-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2018/04/Jacob-Robinson_Podcast-MP3.mp3" length="15429426" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/431597814</guid>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 EST</pubDate>
+      <itunes:duration>15:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 4: Q&amp;A with Dr. Heather Benz, FDA Center for Devices and Radiological Health</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Heather Benz, Staff Fellow at the FDA Center for Devices and Radiological Health</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. Virtual reality, prosthetics, biomedical engineering and research are just a few of the areas in which Dr. Heather Benz works on a day-to-day basis. As a biomedical engineer working as a Medical Device Staff Fellow at the FDA Center for Devices and Radiological Health, Dr. Benz experiences the sci-fi excitement that comes with working in new technology as well as use that technology to help people in need; her two passions. In this IEEE Brain podcast episode, Dr. Benz shares what it’s like working with the FDA to improve the lives of patients, how she came to be a biomedical engineer and what it’s like to be a woman in her field.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep04-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2018/04/Heather-Benz_Podcast-MP3-1.mp3" length="17939390" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/424710948</guid>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 EST</pubDate>
+      <itunes:duration>18:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 3: Q&amp;A with Dr. Emery Brown, MIT</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Emery Brown, IEEE Fellow, Professor of Computational Neuroscience and Medical Engineering at MIT and Professor of Anesthesiology at Massachusetts General Hospital and at Harvard Medical School</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. Over 60,000 people in the United States undergo anesthesia every day which makes Dr. Emery Brown’s research on the effects of anesthesia on the brain pertinent and relevant in today’s world. Not only is Dr. Brown a Professor of Computational Neuroscience and Medical Engineering at MIT, Professor of Anesthesiology at Massachusetts General Hospital and at Harvard Medical School, and a practicing anesthesiologist at Massachusetts General Hospital, he is also an IEEE Fellow and member of the IEEE EMBS Scientific Advisory Board. In short, Dr. Brown is extremely qualified to research anesthesia and the brain. In this IEEE Brain podcast episode, Dr. Brown shares how he started working in this field, his goals in researching anesthesia, how IEEE is contributing to understanding the brain and much more.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep03-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2018/03/Emery-Brown_Podcast.mp3" length="9699790" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/414276471</guid>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 EST</pubDate>
+      <itunes:duration>10:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 2: Q&amp;A with Dr. Sri Sarma, Johns Hopkins University</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Sri Sarma, Assistant Professor of Biomedical Engineering at Johns Hopkins University in the Institute for Computational Medicine</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE EMBS. When it comes to math, Dr. Sri Sarma is a brainiac, quite literally. As the Assistant Professor of Biomedical Engineering at Johns Hopkins University in the Institute for Computational Medicine, Dr. Sarma uses her electrical engineering and control theorist background to mathematically model the human brain. In her research, Dr. Sarma has been able to use electrical stimulation to treat Parkinson’s disease, seizures and other neural-related diseases. In this podcast, Dr. Sarma shares her passion for understanding the brain’s neural circuit and encourages young women interested in pursuing a career as an engineer to think outside the box and to not just think of an engineer as one who tinkers with tools, but one who saves lives.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep02-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2018/02/Sri-Sarma_Podcast.mp3" length="15191939" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/404508936</guid>
+      <pubDate>Sat, 24 Feb 2018 12:00:00 EST</pubDate>
+      <itunes:duration>15:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 1: Q&amp;A with Dr. Eric Perreault, Northwestern University</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Eric Perreault, Chair of the Biomedical Engineering Department at Northwestern University and Professor of Physical Medicine and Rehabilitation</itunes:subtitle>
+      <itunes:summary>Welcome to the IEEE Brain Podcast Series, an IEEE Future Directions Digital Studio Production. In this podcast series, we’ll be talking with inspiring researchers who are using their skills as engineers to advance our understanding of the brain. Our first guest is Dr. Eric Perreault, Chair of the Biomedical Engineering Department at Northwestern University and Professor of Physical Medicine and Rehabilitation. Dr. Perreault works tirelessly to understand the muscle mechanics of the upper extremities, particularly the arm, following neural motor injuries due to a stroke or spinal cord injury. How does he do it? Through research and experimentation around how the brain controls movement, collaboration with other researchers and scientists working in neuro mechanics, using robots attached to unimpaired subjects, and much more. His work doesn’t come without a few challenges, but Dr. Perreault is pursuing his research with the end goal of helping the very people he’s working to save.</itunes:summary>
+      <itunes:image href="http://brain.ieee.org/wp-content/uploads/sites/52/2019/05/brain-podcast-ep01-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2018/02/Eric-Perreault_Podcast.mp3" length="15942225" type="audio/mpeg" />
+      <guid>tag:soundcloud,2010:tracks/404507970</guid>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 EST</pubDate>
+      <itunes:duration>08:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>IEEE Technology Time Machine</title>
+    <link>http://ttm.ieee.org/</link>
+    <language>en-us</language>
+    <copyright>℗ &amp; © 2018 IEEE Technology Time Machine</copyright>
+    <itunes:subtitle>IEEE Technology Time Machine Podcasts</itunes:subtitle>
+    <itunes:author>IEEE Technology Time Machine</itunes:author>
+    <itunes:summary>We bring the specialists to you!</itunes:summary>
+    <description>We bring the specialists to you!</description>
+    <itunes:owner>
+      <itunes:name>IEEE Future Directions</itunes:name>
+      <itunes:email>c.franzino@ieee.org</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://sites.ieee.org/ttm/files/2017/04/ttm-podcasts.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Episode 5: Q&amp;A with Upkar Dhaliwal, Roberto Saracco, Roberto Minerva, Kathy Herring Hayashi</title>
+      <itunes:author>IEEE Technology Time Machine</itunes:author>
+      <itunes:subtitle>Upkar Dhaliwal, Roberto Saracco, Roberto Minerva, Kathy Herring Hayashi</itunes:subtitle>
+      <itunes:summary>Industry leaders, top executives, government officials, innovators, tech forecasters and many others will gather in San Diego, California to attend the IEEE Technology Time Machine Symposium October 31 – Nov 1, 2018. In this IEEE TTM podcast, Upkar Dhaliwal, Roberto Saracco, Roberto Minerva and Kathy Herring Hayashi, share their views on the future of technology including connected cars, UAVs, drones, autonomous cars, nanotechnology, AR/VR and much more.</itunes:summary>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000334840740-0rju9u-original.jpg" />
+      <enclosure url="http://feeds.soundcloud.com/stream/429270942-user-890411464-ieee-ttm-podcast-episode-5.mp3" length="21421951" type="audio/mpeg" />
+      <guid>http://feeds.soundcloud.com/stream/429270942-user-890411464-ieee-ttm-podcast-episode-5.mp3</guid>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 EST</pubDate>
+      <itunes:duration>11:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 4: Q&amp;A with Alicia Abella, Assistant VP at AT&amp;T</title>
+      <itunes:author>IEEE Technology Time Machine</itunes:author>
+      <itunes:subtitle>Alicia Abella, Assistant VP at AT&amp;T</itunes:subtitle>
+      <itunes:summary>Picture the year 2030. What do you see? We asked Dr. Alicia Abella, Assistant Vice President of Inventive Science at AT&amp;T Labs and a true leader for women in STEM, to share her vision on the future of technology, where we have been, where we are going, and why, in this Technology Time Machine podcast. As a subject matter expert in cloud computing, distributed storage, distributed software systems, mobile services, the Internet of Things, and much more, Dr. Abella believes that for us to be truly innovative and make changes in the world of technology, each of these domains must learn to work together. However, before these innovations can lead to a technology rich future, society must be willing to adopt new and changing technology. Through our interview with Dr. Abella, a true expert in her many fields, great insight into achieving a technology rich future was revealed.</itunes:summary>
+      <itunes:image href="http://sites.ieee.org/ttm/files/2017/04/ttm-podcasts.png" />
+      <enclosure url="http://feeds.soundcloud.com/stream/365485172-user-890411464-alicia-abella.mp3" length="8613554" type="audio/mpeg" />
+      <guid>http://feeds.soundcloud.com/stream/365485172-user-890411464-alicia-abella.mp3</guid>
+      <pubDate>Sat, 01 Jul 2017 12:00:00 EST</pubDate>
+      <itunes:duration>04:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 3: Q&amp;A with Karen Bartleson, President and CEO, IEEE</title>
+      <itunes:author>IEEE Technology Time Machine</itunes:author>
+      <itunes:subtitle>Karen Bartleson, President and CEO, IEEE</itunes:subtitle>
+      <itunes:summary>IEEE President, Karen Bartleson, sat down with us to discuss the future of technology and where she sees the world in twenty-five years. Karen has made a tremendous impact on the technology industry and leads the entire IEEE organization with passion and zeal – bringing new light to the various engineering fields and industries the organization represents all while paving a bright future for women in tech. Needless to say, Karen is the perfect person to discuss the future of technology during this Technology Time Machine podcast. Among many other topics, Karen shares her vision of technology advancing space travel, healthcare, and even cyborgs in the near and distant future. However, with the advancement of technology comes the need for discussion on the ethics associated with artificial intelligence. How do we approach ethics and built-in biases that might come with the advancement of these machines? This is just the question that the IEEE, and Karen, are addressing; truly working towards IEEE’s mission of Advancing Technology for the Benefit of Humanity.</itunes:summary>
+      <itunes:image href="http://sites.ieee.org/ttm/files/2017/04/ttm-podcasts.png" />
+      <enclosure url="http://feeds.soundcloud.com/stream/365482301-user-890411464-karen-bartleson.mp3" length="8304833" type="audio/mpeg" />
+      <guid>http://feeds.soundcloud.com/stream/365482301-user-890411464-karen-bartleson.mp3</guid>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 EST</pubDate>
+      <itunes:duration>04:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 2: Q&amp;A with Bill Tonti, Senior Director, IEEE Future Directions</title>
+      <itunes:author>IEEE Technology Time Machine</itunes:author>
+      <itunes:subtitle>Bill Tonti, Senior Director, IEEE Future Directions</itunes:subtitle>
+      <itunes:summary>Ever wonder where different forms of technology come from? Where they originate? Chances are, you can trace many examples back to the IEEE. And helping incubate these society- and life-changing concepts is Dr. Bill Tonti, senior director for IEEE Future Directions. While personally holding ownership to more than 280 U.S. patents, Dr. Tonti helps foster new initiatives that represent various technologies and motivates IEEE and the general public to engage with these programs. Today there are various IEEE Future Directions initiatives, including programs revolving around big data, the brain, cybersecurity, digital senses, green ICT, rebooting computing smart cities, smart materials, software defined networks and 5G. Many of these initiatives were spotlighted at the October 2016 IEEE Technology Time Machine symposium in San Diego. Through our interview with Dr. Tonti, a passageway to a bright and exhilarating technological future was unveiled.</itunes:summary>
+      <itunes:image href="http://sites.ieee.org/ttm/files/2017/04/ttm-podcasts.png" />
+      <enclosure url="http://feeds.soundcloud.com/stream/310437943-user-890411464-bill_tonti.mp3" length="19092028" type="audio/mpeg" />
+      <guid>http://feeds.soundcloud.com/stream/310437943-user-890411464-bill_tonti.mp3</guid>
+      <pubDate>Thu, 02 Feb 2017 12:00:00 EST</pubDate>
+      <itunes:duration>09:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 1: Q&amp;A with Mary Ward-Callan, Managing Director, IEEE Technical Activities</title>
+      <itunes:author>IEEE Technology Time Machine</itunes:author>
+      <itunes:subtitle>Mary Ward-Callan, Managing Director, IEEE Technical Activities</itunes:subtitle>
+      <itunes:summary>The IEEE Technology Time Machine (TTM) symposium brings together industry leaders, top executives, government officials, scientific innovators, and more to discuss future technology directions. Among the turning-point IEEE TTM gatherings, the October 2016 symposium in San Diego promoted the “Making the Future” theme and invited renowned experts in their fields of research and industry. Attending IEEE TTM was Mary Ward-Callan, the managing director for IEEE Technical Activities–an initiative to foster the development and facilitate the exchange of scientific and technological knowledge. In our first IEEE TTM podcast interview, Mary Ward-Callan reviews the social, cultural, political and ethical issues that commonly emerge when innovation alters perception. Her experience at IEEE TTM illuminated her desire for a functional, realistic and safe automated world.</itunes:summary>
+      <itunes:image href="http://sites.ieee.org/ttm/files/2017/04/ttm-podcasts.png" />
+      <enclosure url="http://feeds.soundcloud.com/stream/310437725-user-890411464-mary_ward-callan.mp3" length="9239183" type="audio/mpeg" />
+      <guid>http://feeds.soundcloud.com/stream/310437725-user-890411464-mary_ward-callan.mp3</guid>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 EST</pubDate>
+      <itunes:duration>04:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
+
