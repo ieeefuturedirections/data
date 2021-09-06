@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Episode 19: Q&amp;A with Dr. Mark Stiles, National Institute of Standards and Technology</title>
+      <itunes:author>IEEE Brain</itunes:author>
+      <itunes:subtitle>Dr. Mark Stiles, National Institute of Standards and Technology</itunes:subtitle>
+      <itunes:summary>In partnership with IEEE Magnetics Society. In this episode, Mark Stiles, an active member of the IEEE Magnetics Society and a fellow at the National Institute of Standards and Technology, shares his insights on the society's work as it relates to neuroscience and brain-inspired computing technologies. Mark also offers his advice to students and young professionals who might be interested in relevant technologies fields.</itunes:summary>
+      <itunes:image href="https://brain.ieee.org/wp-content/uploads/sites/52/2021/09/brain-podcast-ep19-cover.jpg" />
+      <enclosure url="https://brain.ieee.org/wp-content/uploads/sites/52/2021/09/brain-podcast-ep19.mp3" length="19991067" type="audio/mpeg" />
+      <guid>https://brain.ieee.org/wp-content/uploads/sites/52/2021/09/brain-podcast-ep19.mp3</guid>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 EST</pubDate>
+      <itunes:duration>27:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Episode 18: Q&amp;A with Dr. Jose Carmena, University of California, Berkeley and Iota Biosciences</title>
       <itunes:author>IEEE Brain</itunes:author>
       <itunes:subtitle>Dr. Jose Carmena, University of California, Berkeley and Iota Biosciences</itunes:subtitle>
